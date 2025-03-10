@@ -1,0 +1,12 @@
+planetary_computer
+pystac_client
+xarray
+zarr
+fsspec
+adlfs
+netcdf4
+dask
+numpy
+pandas
+matplotlib
+geopandas
